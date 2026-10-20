@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output directories & generated files
+web_outputs/
+cli_output/
+test_output/
+*.ply
+*.obj
+*.gif
+
+# Local models cache
+models/
+.cache/
+
+# Environment and secrets
+.env
+*.log
+
+# OS & IDE
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
